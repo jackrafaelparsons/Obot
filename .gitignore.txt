@@ -1,0 +1,14 @@
+# Ignore virtual environment
+Mech2Venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore logs or temporary files
+*.log
+*.tmp
+
+# Ignore PyCharm settings
+.idea/
